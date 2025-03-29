@@ -1,5 +1,8 @@
 # Sintaxis y Semantica de los Lenguajes
-K2002
+K2002 
+
 2025
-2137306
- Juan Garcia
+
+2137306 
+
+Juan Garcia
