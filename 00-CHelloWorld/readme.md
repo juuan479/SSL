@@ -1,6 +1,9 @@
 Usuario Github: juuan479
+
 Legajo: 213.730-6
+
 Apellido: Garcia
+
 Nombre: Juan Ignacio
 
 TP #0: "Hello, World" en C
