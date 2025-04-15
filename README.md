@@ -1,8 +1,10 @@
-# Sintaxis y Semantica de los Lenguajes
-K2002 
+# Sintaxis y Semantica de los Lenguajes (SSL)
+• Curso K2002
 
-2025
+• Año 2025
 
-213.730-6 
+• 213.730-6
 
-Garcia Juan
+• Garcia
+
+• Juan Ignacio
