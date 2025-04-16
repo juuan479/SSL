@@ -1,4 +1,5 @@
 # Sintaxis y Semantica de los Lenguajes (SSL)
+```
 • Curso K2002
 
 • Año 2025
@@ -8,3 +9,4 @@
 • Garcia
 
 • Juan Ignacio
+```
