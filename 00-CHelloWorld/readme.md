@@ -3,8 +3,11 @@
 ### Autor de la resolución:
 ```
  ◦ Juuan479
+
  ◦ 213.730-6
+
  ◦ Garcia
+
  ◦ Juan Ignacio
 ```
 ### Enunciado:
