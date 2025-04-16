@@ -2,14 +2,15 @@
 
 ### Autor de la resolución:
 ```
-Usuario Github: juuan479
-Legajo: 213.730-6
-Apellido: Garcia
-Nombre: Juan Ignacio
+ ◦ Juuan479
+ ◦ 213.730-6
+ ◦ Garcia
+ ◦ Juan Ignacio
 ```
 ### Enunciado:
-3.1. Objetivos
 ```
+3.1. Objetivos
+
   • Demostrar capacidad para editar, compilar, y ejecutar programas C mediante el desarrollo de un programa simple.
 
   • Tener un primer contacto con las herramientas necesarias para abordar la resolución de los trabajos posteriores.
