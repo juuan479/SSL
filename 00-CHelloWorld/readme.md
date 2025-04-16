@@ -1,13 +1,13 @@
-#TP #0: "Hello, World" en C
+# TP #0: "Hello, World" en C
 
-###Autor de la resolución:
+### Autor de la resolución:
 ```
 Usuario Github: juuan479
 Legajo: 213.730-6
 Apellido: Garcia
 Nombre: Juan Ignacio
 ```
-###Enunciado:
+### Enunciado:
 3.1. Objetivos
 ```
   • Demostrar capacidad para editar, compilar, y ejecutar programas C mediante el desarrollo de un programa simple.
@@ -18,7 +18,7 @@ Nombre: Juan Ignacio
 
   • Armado de equipo de trabajo.
 ```
-###Compilador:
+### Compilador:
 ```
 A) Compilador seleccionado: MinGW GCC.
 
@@ -26,7 +26,7 @@ B) Versión del compilador: 14.2.0
 
 C) Versión del estándar de C: C17
 ```
-###Verificacion del Estandar C: 
+### Verificacion del Estandar C: 
 
 *Para verificar el estandar de C utilizado, ejecuto el siguiente comando:* 
 ```c
