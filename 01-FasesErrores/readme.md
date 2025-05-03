@@ -18,3 +18,9 @@
 
   • Para lograr esa identificación se ejecutan las fases de traducción una a una, se detectan y corrigen errores, y se registran las conclusiones.
 ```
+### Resolución:
+```
+
+
+
+```
