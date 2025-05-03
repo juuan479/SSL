@@ -20,7 +20,7 @@
 ```
 ### Resolución:
 ```
-#### hola
+### hola
 
 
 ```
