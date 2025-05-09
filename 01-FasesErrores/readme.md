@@ -34,14 +34,6 @@ e) Al preprocesar hello3.c y generar hello3.i, se observa que no hay cambios sig
 c) El objetivo de este código ensamblador es imprimir en pantalla el número 42 usando el formato "La respuesta es %d\n"
 
 ```
-### Vinculación 
-```
-
-```
-### Correccion de Bug 
-```
-
-```
 ### Remoción de prototipo
 ```
 b)
