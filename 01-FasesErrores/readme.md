@@ -53,3 +53,10 @@ b)
   vi) Una función built-in es una función proporcionada por el compilador, no definida por el programador ni necesariamente parte de la biblioteca estandar. Estas funciones suelen estar optimizadas para realizar tareas comunes de forma eficiente.
   vii) gcc se comporta de cierta manera porque tiene que seguir estrictamente el lenguaje C, en mi opinion no va en contra de la especificación ya que el mismo lenguaje que sigue este compilador te permite lograr un código lo mas especifico posible.    
 ```
+### Compilación Separada: Contratos y Módulos
+```
+c) Si se llega a agregar un argumento o sacar uno la funcion nos va tirar un error de compilación porque la funcion esta diseñada para recibir solo dos parámetros, por lo tanto si elimamos un argumento la funcion no va a poder cumplir lo que pide y si le agregamos va a tirar error porque no va a poder compilar por tener llena la pila
+
+d)
+  iv) La ventaja que nos da definir previamente el contrato y luego incluirlo tanto en el cliente y en el proveedor es que ya son bibliotecas que van a contar con las funciones de printf y prontf por lo tanto con solo incluirlas con el `#incluide` nos va permitir compilar el archivo sin tener que definir ninguna función previa 
+```
